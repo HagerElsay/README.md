@@ -1,8 +1,8 @@
-#Hospital Database Management System
+# Hospital Database Management System
 
 A beginner healthcare database project built with Python and SQLite to organize hospital patient records, doctors, departments, and appointments.
 
-##Features
+## Features
 
 - Patient record management
 - Doctor and department management
@@ -13,7 +13,7 @@ A beginner healthcare database project built with Python and SQLite to organize 
 - SQL queries using SELECT, WHERE, JOIN, COUNT, and GROUP BY
 - Database integrity testing
 
-##Database Tables
+## Database Tables
 
 1. "patients" — Patient information and diagnoses
 2. "doctors" — Doctor information and specialties
@@ -22,14 +22,14 @@ A beginner healthcare database project built with Python and SQLite to organize 
 5. "appointments" — Patient appointments, doctors, dates, and statuses
 6. "validated_patients" — Demonstration table for database constraints
 
-##Technologies
+## Technologies
 
 - Python
 - SQLite
 - SQL
 - Pydroid 3 (Android development environment)
 
-##Testing Results
+## Testing Results
 
 - 6 database tables verified
 - 4 patient records in the main patients table
@@ -39,11 +39,11 @@ A beginner healthcare database project built with Python and SQLite to organize 
 - Foreign key integrity check passed
 - Data validation constraints tested
 
-##Project Purpose
+## Project Purpose
 
 This project demonstrates foundational database skills relevant to healthcare data management and healthcare technology infrastructure.
 
-##Future Improvements
+## Future Improvements
 
 - Connect the database to a healthcare REST API
 - Improve patient identity matching
@@ -51,6 +51,6 @@ This project demonstrates foundational database skills relevant to healthcare da
 - Add authentication, authorization, and audit logging
 - Implement secure handling of sensitive health information
 
-##Disclaimer
+## Disclaimer
 
 This is an educational prototype using fictional patient records. It is not intended for real hospital use or the storage of actual patient data.
